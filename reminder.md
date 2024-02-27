@@ -8,6 +8,9 @@
 a=5
 b=76
 c=a+b
+c=a+b
+c=a+b
+c=a+b
 ```
 
 
