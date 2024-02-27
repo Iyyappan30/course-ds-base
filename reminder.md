@@ -11,7 +11,7 @@ c=a+b
 ```
 
 
-[Link to more info](README.md)
+[Link linj to updated to more info](README.md)
 
 
 [asdasd](README.md)
